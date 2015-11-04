@@ -1,0 +1,20 @@
+
+This is a grammatical analyser for Komi Zyryan.
+
+The lexicon is full-sized (90000 entries), but parts of the
+morphological component still needs more work.
+
+The analyser is in use in a morphologically enriched Komi Zyryan
+dictionary. 
+
+
+-----
+
+The structure of the source file catalogue is the same for all
+the languages, it is documented [here|../../infra/infraremake/NewinfraCatalogues.html].
+
+
+
+These pages document how to build the parsers. If you want to know
+how to use them on the command line, read the
+[How to use the morphological parsers|../../tools/docu-sme-manual.html] page.

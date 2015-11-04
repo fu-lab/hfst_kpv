@@ -1,0 +1,141 @@
+
+!!!Noun morphological lexica !
+
+
+ * __LEXICON Vocative__
+
+ * __LEXICON Noun1-IS_PTC-OM__ is to provide deverbal nouns with +Der/ӧм tags
+
+ * __LEXICON Noun1-IS_PTC-AN__
+
+ * __LEXICON Noun1-IS_PTC-YSJ__
+
+
+
+
+
+
+
+
+Basic nouns.
+
+The lexicon for basic nouns is N_ 
+
+
+This should be phased out 2013-05-07
+
+
+
+
+subsequent Cns vs Vow
+ * LEXICON N_PARAGOGIC-В/Л  ныв:ны нылыс
+
+ * LEXICON N_PARAGOGIC-Й  ав:ав авйыс
+
+ * LEXICON N_PARAGOGIC-К  кытш:кытш кытшкыс
+
+ * LEXICON N_PARAGOGIC-М  зон:зон зонмыс
+
+ * LEXICON N_PARAGOGIC-Т  зеп:зеп зептыс
+
+ * LEXICON N_END-IN-Й  абай:аба абайыс
+
+ * LEXICON N_END-IN-ДДЬ  автомобиль:автомобил автомобильыс
+ * +N+Pl:ьяс CASEPOSSLEX ;  2015-09-04 change to ь%>яс after xfst rules are removed
+
+ * LEXICON N_END-IN-ДДЗ  автомобиль:автомобил автомобильыс
+
+ * LEXICON N_END-IN-ЛЛЬ  моль:мол молльӧ
+2015-09-04 change to ь%>яс after xfst rules are removed
+
+ * LEXICON N_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
+ * LEXICON NMN_END-IN-Ч/ДЗ  автомобиль:автомобил автомобильыс
+
+ * LEXICON N_END-IN-Ь  автомобиль:автомобил автомобильыс
+2015-09-04 change to ь%>яс after xfst rules are removed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!!Inflectional lexica 
+
+
+All nouns follow one contlex "N_"
+to begin with here is simply a list of all variant
+with no more variants beyond:
+
+
+
+ * __LEXICON CASEPOSSLEX__
+
+
+
+SG1
+
+SG2
+
+SG3
+
+PL1
+
+
+PL2
+
+PL3
+
+
+SG1
+SG2
+SG3
+PL1
+PL2
+PL3
+
+SG1
+SG2
+SG3
+PL1
+PL2
+PL3
+
+
+
+SG1
+
+SG2
+
+SG3
+
+PL1
+
+PL2
+
+PL3
+
+
+!!Case
+
+
+
+
+
+
+
+
+
+
+
+2012-02-07 !!+Der/а+Adv:%>а K ;
+
+
+

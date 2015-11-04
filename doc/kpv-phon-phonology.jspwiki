@@ -1,0 +1,91 @@
+!!!Komi Zyrian twol file
+cf. kpv-phon-old.xfscript
+cf. http://www.ling.helsinki.fi/~rueter/Publications/Rueter_in-Permistika-6_2000-154-158.pdf
+Хельсинкиса университетын кыв туялысь Ижкарын Перымса кывъяс симпозиум вылын лыддьӧмтор
+!!Alphabet, Sets and Definitions
+
+
+!!Letters of the alphabet
+
+ * а б в г д е ё ж з и і й к л м н о ӧ п р с т у ф х ц ч ш щ ъ ы ь э ю я 
+ * А Б В Г Д Е Ё Ж З И І Й К Л М Н О Ӧ П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я 
+
+!!Archiphonemes for vowels
+!!Triggers
+
+
+
+!!Boundary symbols
+
+ *  %>  morpheme boundary
+ * hash # word boundary
+ *  %-  
+
+Diacritics
+
+
+
+
+!!Sets 
+
+Vowel
+
+Palatal Vowel
+Cns-initial vowels
+
+All non-vowels, consonants and hard and soft signs
+
+All non-vowels with exception of soft sign
+All consonants followed by Cyrillic и
+Why is т2 here 2015-10-01
+
+Letters
+
+Dummy
+
+
+!!Definitions
+
+
+
+!!Rules
+
+
+__The famous L/V__
+
+Paragogic consonants
+__mDeletion__
+
+Paragogic consonants
+__tDeletion__
+
+__kDeletion__
+
+__jDeletion after vowel__
+
+__j to hard sign after consonant__
+
+__l deletion__
+
+__d deletion__
+
+Vowel Palatalisation
+__а 2 я, о 2 ё, у 2 ю__
+картопель+Sg+Ine+PxSg3
+картопель+Pl+Nom
+
+
+__і 2 и__
+
+__Soft Sign Deletion__
+
+
+__Hard Sign Deletion__
+
+__Hard Sign Palatalization__
+
+__No triple letters__
+
+__IClitic__
+
+

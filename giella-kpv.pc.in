@@ -1,0 +1,12 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+datadir=@datarootdir@
+gtlang=kpv
+dir=${datadir}/giella/${gtlang}
+srcdir=${datadir}/giella/${gtlang}
+
+Name: giella-kpv
+Description: Finite-state language processing tools for Komi-Zyrian
+URL: http://divvun.no/doc/index.html
+Version: @VERSION@
